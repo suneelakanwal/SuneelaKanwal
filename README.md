@@ -61,8 +61,11 @@ My vision is to apply cutting-edge AI technologies to real-world problems in hea
 ---
 
 📫 Connect with Me
-- Email: suneela.kanwal24@gmail.com  
-- LinkedIn: [Suneela Kanwal](https://www.linkedin.com/in/suneela-kanwal-24/)  
+
+[![Email](https://img.shields.io/badge/Email-suneela.kanwal24@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suneela.kanwal24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suneela_Kanwal-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suneela-kanwal-24/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Website-green?style=for-the-badge&logo=googlescholar&logoColor=white)](https://suneela-kanwal-649bzs7.gamma.site/)
+
 
 ---
 
