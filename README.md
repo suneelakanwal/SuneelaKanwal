@@ -1,7 +1,5 @@
 # Hi, I’m Suneela Kanwal 👋
 
-**Software Engineer | AI & Data Science Enthusiast | Researcher**
-
 I am a passionate AI professional pursuing a Master’s in AI & Automation in Sweden. With a strong foundation in software engineering and research, I develop intelligent systems that enhance automation, decision-making, and data-driven innovation.
 
 My vision is to apply cutting-edge AI technologies to real-world problems in healthcare, automation, and intelligent systems.
