@@ -11,7 +11,7 @@ My vision is to apply cutting-edge AI technologies to real-world problems in hea
 - Graph Neural Networks and Temporal Dynamics
 - Building scalable data pipelines and backend systems
 - Cloud-based solutions for AI and ML applications (GCP/AWS)
-
+- LLMs and XAI
 ---
 
 💼 Professional Experience
