@@ -46,7 +46,8 @@ My vision is to apply cutting-edge AI technologies to real-world problems in hea
 - Kanwal, S. (2025). *A Multi-Domain Intelligent Framework for Biomedical Prediction and Healthcare Risk Analytics Using TJO and Tree Growth-Driven Deep Neural Networks*. Journal of Data and Digital Innovation  
 - Kanwal, S. (2025). *A Unified Deep Learning Framework for Predictive Healthcare Analytics Using TJO-Based Feature Selection and Tree Growth Optimized Graph-Temporal Modeling*. Euro Vantage Journal of AI (Submitted)  
 - Kanwal, S., Ansarizadeh, F., & Karmakar, C. (2025). *Spatial-Temporal Fusion for Heart Failure Prediction*. IEEE Biomedical and Health Informatics (Submitted)  
-- Kanwal, S., & Ullah, S. (2025). *GCN-LSTM Hybrid Model for Enhanced Spatio-Temporal Sales Forecasting in Multichannel Retail*. Journal of Management Analytics (Submitted)  
+- Kanwal, S., & Ullah, S. (2025). *GCN-LSTM Hybrid Model for Enhanced Spatio-Temporal Sales Forecasting in Multichannel Retail*. Journal of Management Analytics (Submitted)
+- Kanwal, S. (2025). *Machine Learning Methods for Clinical Intelligence Applications and Challenges*. Discover Artificial Intelligence (Accepted)
 
 ---
 
@@ -54,7 +55,9 @@ My vision is to apply cutting-edge AI technologies to real-world problems in hea
 - AI-driven Healthcare Analytics  
 - Graph Neural Networks & Temporal Modeling  
 - Predictive Modeling & Data Science  
-- Automation & Intelligent Systems  
+- Automation & Intelligent Systems
+- Explainable AI
+- LLM & Agentic AI 
 
 ---
 
