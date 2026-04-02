@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Suneela Kanwal 👋</h1>
 
 <p align="center">
-  <strong>Data Scientist · LLMs · RAG Pipelines · Clinical AI Safety · Azure ML</strong><br/>
+  <strong>Data Scientist · LLMs · RAG Pipelines · DL ·Healthcare </strong><br/>
   MSc AI & Automation @ Högskolan Väst, Sweden &nbsp;|&nbsp; Published Researcher &nbsp;|&nbsp; 4+ Years in Production AI
 </p>
 
