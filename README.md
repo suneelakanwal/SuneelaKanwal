@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Researcher · Deep Learning · Graph Neural Networks · Healthcare AI</strong><br/>
-  MSc AI &amp; Automation @ Högskolan Väst, Sweden &nbsp;|&nbsp; Published Researcher &nbsp;|&nbsp; Prospective PhD Candidate
+  MSc AI &amp; Automation @ Högskolan Väst, Sweden &nbsp;|&nbsp; Published Researcher &nbsp;
 </p>
 
 <p align="center">
