@@ -142,7 +142,6 @@ ML-based credit risk analysis pipeline. Pattern recognition and classification f
 
 - **English** — Fluent (C1)
 - **Swedish** — Intermediate (active development)
-- **Urdu / Punjabi** — Native
 
 ---
 
