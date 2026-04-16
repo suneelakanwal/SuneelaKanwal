@@ -174,10 +174,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=XKfd7_0A
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suneelakanwal&show_icons=true&hide_title=true&count_private=true&theme=default" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
-  <em>Open to PhD positions and research-oriented ML / AI roles in Sweden and the EU.</em>
-</p>
