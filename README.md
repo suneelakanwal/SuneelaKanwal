@@ -15,11 +15,11 @@
 
 ## 🧠 About Me
 
-I'm an AI researcher and MSc student at Högskolan Väst (Sweden), focused on **deep learning, graph neural networks, and spatio-temporal modelling** — with applications in **healthcare analytics** and intelligent decision-support systems.
+I'm an AI researcher and MSc student at Högskolan Väst (Sweden), focused on **deep learning, graph neural networks, and spatio-temporal modelling** with applications in **healthcare analytics** and intelligent decision-support systems.
 
 I've authored multiple peer-reviewed journal articles and have hands-on experience building and evaluating **PyTorch-based hybrid architectures** (GCN, LSTM, attention-based fusion) on biomedical and multi-domain data. I'm currently also contributing to the design of a **clinical AI safety framework** for a perinatal mental health LLM system, where my work sits at the intersection of applied AI and responsible deployment.
 
-I'm actively preparing for a PhD and open to collaborations in healthcare AI, graph learning, and human–AI decision support.
+I'm actively looking for opportunities and open to collaborations in healthcare AI, graph learning, and human–AI decision support.
 
 ---
 
